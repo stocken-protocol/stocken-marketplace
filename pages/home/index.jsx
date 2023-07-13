@@ -12,7 +12,7 @@ import Meta from "../../components/Meta";
 const Home_2 = () => {
   return (
     <>
-      <Meta title="Home 2" />
+      <Meta title="stocken" />
       <Hero_2 />
       <Top_collection />
       <Auctions_categories />

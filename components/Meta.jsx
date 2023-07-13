@@ -4,8 +4,8 @@ const Meta = ({ title, keyword, desc }) => {
   return (
     <div>
       <Head>
-        <title>{title} || Xhibiter NFT Marketplace Next.js Template</title>
-        <link rel="icon" href="/favicon.png" />
+        <title>{title} | Ownership NFT Marketplace.</title>
+        <link rel="icon" href="/favicon.ico" />
         <meta name="description" content={desc} />
         <meta name="keyword" content={keyword} />
       </Head>
